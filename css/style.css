@@ -9316,6 +9316,16 @@ textarea.form-control {
   width: 100%;
   height: 180px; }
 
+  .block-30 {
+    overflow: hidden;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    position: relative;
+    display: block;
+    width: 90%;
+    height: 50px; }
+
 .blog-entry {
   position: relative; }
   @media (min-width: 768px) {
